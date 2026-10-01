@@ -48,7 +48,7 @@ Click **Fork** at the top of this page, then:
 
 ```bash
 git clone https://github.com/<your-username>/Repository-1.git
-cd Repository-1
+cd Demo-Repository-1
 ```
 
 ### 3. Make a branch

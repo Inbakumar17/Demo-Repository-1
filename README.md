@@ -18,8 +18,8 @@ You need **Python 3** and nothing else. No `pip install`, no virtual environment
 no setup.
 
 ```bash
-git clone https://github.com/Prashansure/Repository-1.git
-cd Repository-1
+git clone https://github.com/github-community-gitam/Demo-Repository-1.git
+cd Demo-Repository-1
 python3 python-open-source-challenge/issue-01.py
 ```
 

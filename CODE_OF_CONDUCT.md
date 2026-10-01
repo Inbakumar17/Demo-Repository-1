@@ -28,7 +28,7 @@ open source for the first time. That shapes how we behave.
 ## Scope
 
 This applies in all project spaces — issues, pull requests, commit messages,
-code reviews, Discord, WhatsApp groups — and at in-person events run by
+code reviews, the community WhatsApp group — and at in-person events run by
 GITHUB Community GITAM.
 
 ## Reporting
